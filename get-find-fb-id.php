@@ -38,5 +38,5 @@ function getFBID($url) {
     return $match;
 }
 
-echo getFBID('https://www.facebook.com/tuberboy');
+echo getFBID('https://www.facebook.com/duyvinh09');
 ?>
